@@ -1,0 +1,16 @@
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\bin\Debug\MP-ExcelAddIn.dll
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\bin\Debug\MP-ExcelAddIn.pdb
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\bin\Debug\MP-ExcelAddIn.dll.manifest
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\bin\Debug\MP-ExcelAddIn.vsto
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP-ExcelAddIn.csproj.AssemblyReference.cache
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\Interop.Microsoft.Office.Core.dll
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP-ExcelAddIn.csproj.ResolveComReference.cache
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP_ExcelAddIn.Properties.Resources.resources
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP_ExcelAddIn.RibbonMP.resources
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP-ExcelAddIn.csproj.GenerateResource.cache
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP-ExcelAddIn.csproj.CoreCompileInputs.cache
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP-Excel.34920181.Up2Date
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP-ExcelAddIn.dll
+D:\Документы\Visual Studio Projects\MP-ExcelAddIn\MP-ExcelAddIn\obj\Debug\MP-ExcelAddIn.pdb
